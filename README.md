@@ -1,3 +1,4 @@
+The purpose of this project is to provide a fresher an understanding on the design patterns in java.
 This book was first published in 1994 and it’s one of the most popular books to learn design patterns. The book was authored by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. It got nicknamed as Gangs of Four design patterns because of four authors. Furthermore, it got a shorter name as “GoF Design Patterns”.
 
 GoF Design Pattern Types
